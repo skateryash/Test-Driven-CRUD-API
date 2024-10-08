@@ -1,0 +1,5 @@
+djangorestframework
+django
+coverage
+drf-yasg
+setuptools
